@@ -1,0 +1,92 @@
+body{
+    /* Gaya kontainer gambar */
+    .slideshow-container {
+        position: relative;
+        width: 1270px; /* Ukuran kontainer gambar */
+        height: 592px; /* Ukuran kontainer gambar */
+        overflow: hidden;
+      }
+      
+}
+/* Gaya sub menu */
+.submenu {
+    max-height: 200px; /* Ketinggian maksimum sub menu */
+    overflow-y: auto; /* Mengaktifkan scroll vertikal */
+  }
+  
+  /* Gaya tautan sub menu */
+  .submenu a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #333333;
+  }
+  
+  /* Gaya tautan sub menu saat dihover */
+  .submenu a:hover {
+    background-color: #dddddd;
+  }
+ 
+  .menu-kegiatan img {
+    width: 50px; /* Sesuaikan ukuran gambar sesuai kebutuhan */
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .menu-kegiatan span {
+    line-height: 50px; /* Sesuaikan sesuai ukuran gambar */
+  }
+
+  .menu-kegiatan {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .menu-kegiatan ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu-kegiatan li {
+    margin-bottom: 5px;
+  }
+  
+  .menu-kegiatan a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .menu-kegiatan a:hover {
+    background-color: #ccc;
+  }
+ 
+  .menu-kegiatan {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .menu-kegiatan ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu-kegiatan li {
+    margin-bottom: 5px;
+  }
+  
+  .menu-kegiatan a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .menu-kegiatan a:hover {
+    background-color: #ccc;
+  }
+ 
